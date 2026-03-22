@@ -1,0 +1,26 @@
+[
+    {
+        "image":"https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1730352766_7450632.jpg?w=300&dpr=1",
+        "name" :"Linen Shirt",
+        "Offer_price" :"1999",
+        "Orignal_Price":"2599"
+    },
+    {
+        "image":"https://fastfashion.co.in/wp-content/uploads/2025/07/Graphic-Deer-Back-Printed-Oversized-Cotton-T-shirt-for-Men-1-300x400.webp",
+        "name" :"Over-Size T",
+        "Offer_price" :"1299",
+        "Orignal_Price":"1899"
+    },
+    {
+        "image":"https://photos.vardanethnic.in/media/2026/02/sethnic-oriana17721943941048903747-300x400.jpeg",
+        "name" :"Saree",
+        "Offer_price" :"2599",
+        "Orignal_Price":"4999"
+    },
+    {
+        "image":"https://www.karagiri.com/cdn/shop/files/1004B.jpg?v=1761802367&width=300",
+        "name" :"Saree",
+        "Offer_price" :"4999",
+        "Orignal_Price":"5599"
+    }
+]

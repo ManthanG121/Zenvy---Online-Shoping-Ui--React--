@@ -1,0 +1,22 @@
+[
+    {
+        "image":"https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1712574969_7069908.jpg",
+        "name" :"US-POLO Shirt",
+        "price" :"1999"
+    },
+    {
+        "image":"https://images-static.nykaa.com/media/catalog/product/4/5/450e8e7MD259125_1.jpg",
+        "name" :"US-POLO Shirt",
+        "price" :"4999"
+    },
+    {
+        "image":"https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1772813323_5952909.jpg",
+        "name" :"US-POLO Shirt",
+        "price" :"2599"
+    },
+    {
+        "image":"https://images-static.nykaa.com/media/catalog/product/4/5/450e8e7MD259121_1.jpg?tr=w-500",
+        "name" :"Nykaa Shirt",
+        "price" :"4999"
+    }
+]
