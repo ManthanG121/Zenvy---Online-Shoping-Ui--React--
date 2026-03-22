@@ -23,6 +23,6 @@
 ![Contact1](Screenshots/Contact-01.png)
 ![Contact2](Screenshots/Contact-02.png)
 ### Wishlist
-![Wishlist](Screenshots/Wishlist-01.png)
+![Wishlist](Screenshots/Wishlist.png)
 ### Cart
-![Cart](Screenshots/Cart-01.png)
+![Cart](Screenshots/Cart.png)
