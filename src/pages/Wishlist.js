@@ -8,7 +8,6 @@ import New_Product_data from "../data/NewArrivals-Products.json";
 
 function Wishlist() {
   return (
-    <div>
     <div className="container my-5">
 
       {/* HEADER */}
@@ -30,8 +29,7 @@ function Wishlist() {
       <Wishlist_Footer/>
 
     </div>
-    <Footer/>
-    </div>
+   
   );
 }
 

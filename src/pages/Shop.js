@@ -9,7 +9,6 @@ import New_Product_data from "../data/NewArrivals-Products.json";
 
 const Shop = () => {
   return (
-    <div>
       <div className="container my-5">
 
         <div className="row">
@@ -43,10 +42,6 @@ const Shop = () => {
           </div>
         </div>
       </div>
-
-      {/* Footer */}
-      <Footer />
-    </div>
   )
 }
 

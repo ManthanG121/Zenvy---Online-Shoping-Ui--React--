@@ -27,8 +27,6 @@ function Cart() {
       <Cart_footer/>
 
     </div>
-    {/* Footer */}
-    <Footer/>
     </div>
   );
 }

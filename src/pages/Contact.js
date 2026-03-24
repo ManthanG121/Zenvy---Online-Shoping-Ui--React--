@@ -27,8 +27,6 @@ function Contact() {
       <Cta/>
 
     </div>
-    {/* Footer */}
-    <Footer/>
     </div>
   );
 }

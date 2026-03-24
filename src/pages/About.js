@@ -34,9 +34,6 @@ function About() {
         {/* BIG CTA BANNER */}
         <Big_Banner />
       </div>
-      {/* Footer */}
-      <Footer />
-
     </div>
   );
 }
