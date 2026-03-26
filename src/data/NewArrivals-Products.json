@@ -1,22 +1,34 @@
 [
     {
+        "id":1,
         "image":"https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1712574969_7069908.jpg",
         "name" :"US-POLO Shirt",
-        "price" :"1999"
+        "price" :"1999",
+        "orignalprice":"2999",
+        "discription":"Classic casual shirt with a comfortable fit and breathable fabric.Perfect for everyday wear with a stylish, timeless look."        
     },
     {
+        "id":2,
         "image":"https://images-static.nykaa.com/media/catalog/product/4/5/450e8e7MD259125_1.jpg",
         "name" :"US-POLO Shirt",
-        "price" :"4999"
+        "price" :"4999",
+        "orignalprice":"6599",
+        "discription":"Premium quality shirt crafted for a sharp and polished appearance. Ideal for both casual outings and semi-formal occasions."        
     },
     {
+        "id":3,
         "image":"https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1772813323_5952909.jpg",
         "name" :"US-POLO Shirt",
-        "price" :"2599"
+        "price" :"2599",
+        "orignalprice":"4599",
+        "discription":"Trendy and versatile shirt designed for modern styling. Offers great comfort with a sleek and fashionable finish."        
     },
     {
+        "id":4,
         "image":"https://images-static.nykaa.com/media/catalog/product/4/5/450e8e7MD259121_1.jpg?tr=w-500",
         "name" :"Nykaa Shirt",
-        "price" :"4999"
+        "price" :"4999",
+        "orignalprice":"6999",
+        "discription":"Elegant shirt with a refined design and soft fabric feel. Great choice for a chic and sophisticated wardrobe upgrade."        
     }
 ]

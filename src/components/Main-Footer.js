@@ -33,7 +33,7 @@ const Footer = () => {
                     <div className="col-md-3 mb-4">
                         <h6 className="fw-bold">Support</h6>
                         <ul className="list-unstyled">
-                            <Link to="/contact">Contact Us</Link>
+                            <Link to="/Contact">Contact Us</Link>
                         </ul>
                     </div>
 

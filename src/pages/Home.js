@@ -49,6 +49,7 @@ const Home = () => {
     <div className="row">
       {product_data.map((pd) => (
         <Trending_Card
+          id = {pd.id}
           pimage={pd.image}
           pname={pd.name}
           pofferprice={pd.Offer_price}
@@ -70,6 +71,7 @@ const Home = () => {
     <div className="row">
       {New_Product_data.map((npdata) => (
         <NewArrivals_Card
+          id = {npdata.id}
           nproduct_name={npdata.name}
           nproduct_image={npdata.image}
           nproduct_price={npdata.price}

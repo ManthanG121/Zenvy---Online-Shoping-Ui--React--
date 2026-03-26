@@ -1,15 +1,17 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom';
 
 export const Product_Card = (props) => {
+  const navigate = useNavigate();
   return (
     <>
       <div className="col-md-4 col-sm-6">
         <div className="card border-0 shadow-sm">
-
+          
           <img
             src={props.pimage}
             className="card-img-top"
-            alt=""
+            alt="" onClick={()=> navigate(`/Singlepage/${props.id}`)}
           />
 
           <div className="card-body text-center">
@@ -35,6 +37,7 @@ export const Product_Card = (props) => {
 
 
 export const NProduct_Card = (props) => {
+  const navigate = useNavigate();
   return (
     <div className="col-md-4 col-sm-6">
         <div className="card border-0 shadow-sm">
@@ -42,7 +45,7 @@ export const NProduct_Card = (props) => {
           <img
             src={props.npimage}
             className="card-img-top"
-            alt=""
+            alt="" onClick={()=>navigate(`/Singlepage2/${props.id}`)}
           />
 
           <div className="card-body text-center">

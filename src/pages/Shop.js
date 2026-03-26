@@ -23,6 +23,7 @@ const Shop = () => {
               {/* Product Card */}
               {product_data.map((data)=>(
               <Product_Card 
+              id = {data.id}
               pname = {data.name}
               pimage = {data.image}
               pprice = {data.Offer_price}
@@ -32,6 +33,7 @@ const Shop = () => {
               ))}
               {New_Product_data.map((data)=>(
               <NProduct_Card 
+              id = {data.id}
               npname = {data.name}
               npimage = {data.image}
               npprice = {data.price}

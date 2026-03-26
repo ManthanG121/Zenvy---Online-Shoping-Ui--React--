@@ -1,6 +1,8 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom';
 
 const NewArrivals_Card = (props) => {
+    const navigate = useNavigate();
     return (
        
             <div className="col-lg-3 col-md-6 col-sm-6 mb-4">
@@ -9,7 +11,7 @@ const NewArrivals_Card = (props) => {
                         <img
                             src={props.nproduct_image}
                             className="card-img-top"
-                            alt=""
+                            alt="" onClick={()=>navigate(`/Singlepage2/${props.id}`)}
                         />
                         <span className="badge bg-success position-absolute top-0 start-0 m-2">
                             NEW

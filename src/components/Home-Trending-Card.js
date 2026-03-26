@@ -1,6 +1,8 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom'
 
 const Trending_Card = (props) => {
+  const navigate = useNavigate();
     return (
 
         <div className="col-lg-3 col-md-6 col-sm-6 mb-4">
@@ -9,7 +11,7 @@ const Trending_Card = (props) => {
               <img
                 src={props.pimage}
                 className="card-img-top img-main"
-                alt=""
+                alt="" onClick={()=> navigate(`/Singlepage/${props.id}`)}
               />
               <span className="badge bg-danger position-absolute top-0 start-0 m-2">
                 SALE
